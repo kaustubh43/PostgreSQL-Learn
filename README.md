@@ -20,7 +20,8 @@ PostgreSQL also has a robust ecosystem with a huge selection of add-ons and exte
 
 ### SQL Shell
 > Each server can host multiple databases
-> 
+>
+> [Shell Commands](./Shell.md)
 
 PosgreSQL with Python
 > We will be using Psycogp2 module 
