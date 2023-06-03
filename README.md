@@ -23,6 +23,10 @@ PostgreSQL also has a robust ecosystem with a huge selection of add-ons and exte
 >
 > [Shell Commands](./Shell.md)
 
+### Relational Databases
+> [Realtional Databases and Data Types](./RelationalDB.md)
+
+
 PosgreSQL with Python
 > We will be using Psycogp2 module 
 >> Installation: `pip3 install psycopg2`
