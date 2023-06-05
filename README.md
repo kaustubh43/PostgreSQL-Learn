@@ -25,6 +25,7 @@ PostgreSQL also has a robust ecosystem with a huge selection of add-ons and exte
 
 ### Relational Databases
 > [Realtional Databases and Data Types](./RelationalDB.md)
+> [Table relations](./TableRelations.md)
 
 
 PosgreSQL with Python
