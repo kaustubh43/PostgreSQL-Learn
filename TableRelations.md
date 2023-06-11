@@ -44,7 +44,7 @@ ORDER BY employee_id ASC
 
 ### Save as a view 
 >>```
->> CREATE VIEW manufacturing.product_details 
+>> CREATE VIEW manufacturing.product_details AS
 >> SELECT products.product_id,
 >>	products.name AS products_name,
 >>	products.manufacturing_cost,

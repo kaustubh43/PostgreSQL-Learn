@@ -27,6 +27,8 @@ PostgreSQL also has a robust ecosystem with a huge selection of add-ons and exte
 > [Realtional Databases and Data Types](./RelationalDB.md)
 > [Table relations](./TableRelations.md)
 
+### Managing the Database
+> [Table Indexes](./TableIndexes.md)
 
 PosgreSQL with Python
 > We will be using Psycogp2 module 
